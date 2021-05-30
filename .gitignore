@@ -1,3 +1,9 @@
 /.ipynb_checkpoints
-models/
-plots/
+models_fc_disc/
+models_gru_disc/
+models_lstm_base/
+models_lstm_disc/
+plots_fc_disc/
+plots_gru_disc/
+plots_lstm_base/
+plots_lstm_disc/
